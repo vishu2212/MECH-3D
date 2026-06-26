@@ -1,0 +1,61 @@
+# ==========================================
+# Gitignore for Mechanical CAD Portfolio
+# Covers: SolidWorks, AutoCAD, Windows, Temp
+# ==========================================
+
+# --- SolidWorks Temp & Backup Files ---
+# SolidWorks temporary/lock files (e.g., ~$Part1.sldprt)
+~$*
+# SolidWorks AutoRecover files
+[Aa]uto[Rr]ecover of *.*
+# SolidWorks backup files
+*.sldlfp.bak
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+# SolidWorks logs and journals
+*.sldjournal
+*.swxJnl
+# SolidWorks Simulation results / COSMOS
+*.CWR
+*.cwr
+*.STATS
+*.stats
+*.OUT
+*.out
+*.ERR
+*.err
+*.LOG
+*.log
+*Geometry.sldprt
+
+# --- AutoCAD Temp & Backup Files ---
+# AutoCAD drawing lock files
+*.dwl
+*.dwl2
+# AutoCAD backup files
+*.bak
+# AutoCAD temporary drawing files
+*.ac$
+# AutoCAD error/log files
+*.err
+*.log
+*.plt
+*.dwg.lnk
+
+# --- Windows System & OS Files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- General Temporary & IDE Files ---
+*.tmp
+*.temp
+*~
+.DS_Store
+.idea/
+.vscode/
+.gemini/
+.agents/
