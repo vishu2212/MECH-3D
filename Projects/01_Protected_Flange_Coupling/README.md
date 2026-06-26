@@ -83,7 +83,7 @@ In the assembly environment (`ProtectedFlangeCoupling.SLDASM`), the parts were m
 
 ---
 
-## 🎨 Exploded View & Animation
+## 🎨 Exploded View & Assembly Renders
 Below is the design explosion sequence showing the assembly order (from center outwards):
 
 ```mermaid
@@ -95,6 +95,12 @@ graph LR
 ```
 
 *The exploded state offsets the bolts axially by \(120 \text{ mm}\), the flanges by \(60 \text{ mm}\), and the keys radially by \(30 \text{ mm}\) for visual clarity in user documentation.*
+
+### Renderings & Visualizations
+<p align="center">
+  <img src="Images/Assem1.JPG" alt="Assembly Rendering 1" width="48%">
+  <img src="Images/Assem2.JPG" alt="Assembly Rendering 2" width="48%">
+</p>
 
 ---
 
@@ -115,18 +121,18 @@ The technical drawings are designed for standard machine shop fabrication:
 The deliverables for this project are organized as follows:
 
 *   **Parts**: Contains individual SolidWorks part files ([`Parts/`](file:///c:/Users/VISHAV/OneDrive/Desktop/MECH%20PORTFOLIO/Projects/01_Protected_Flange_Coupling/Parts/))
-    *   `01_01_flange_a.SLDPRT`
-    *   `01_02_flange_b.SLDPRT`
-    *   `01_03_shaft.SLDPRT`
-    *   `01_04_key.SLDPRT`
+    *   `FLANGE A.SLDPRT`
+    *   `FLANGE B.SLDPRT`
+    *   `SHAFT.SLDPRT`
+    *   `KEY.SLDPRT`
+    *   `Nut.SLDPRT`
 *   **Assembly**: The master assembly file ([`Assembly/`](file:///c:/Users/VISHAV/OneDrive/Desktop/MECH%20PORTFOLIO/Projects/01_Protected_Flange_Coupling/Assembly/))
-    *   `ProtectedFlangeCoupling_Assembly.SLDASM`
+    *   `Assem1.SLDASM`
 *   **Drawings**: 2D fabrication drawing sheets ([`Drawings/`](file:///c:/Users/VISHAV/OneDrive/Desktop/MECH%20PORTFOLIO/Projects/01_Protected_Flange_Coupling/Drawings/))
-    *   `ProtectedFlangeCoupling_Assembly.SLDDRW`
-    *   `ProtectedFlangeCoupling_Assembly.dwg`
+    *   `Assem1.SLDDRW` (Pending)
 *   **Neutral CAD / STEP**: Located in [Manufacturing/](file:///c:/Users/VISHAV/OneDrive/Desktop/MECH%20PORTFOLIO/Projects/01_Protected_Flange_Coupling/Manufacturing/)
-    *   `ProtectedFlangeCoupling_Assembly.STEP` (AP214)
-    *   `ProtectedFlangeCoupling_Assembly.PDF` (Ready-to-print 2D blueprint)
+    *   `Assem1.STEP` (Pending)
+
 
 ---
 

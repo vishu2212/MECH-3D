@@ -73,7 +73,7 @@ With hands-on experience in **SolidWorks** and **AutoCAD**, I enjoy solving comp
     <td width="50%" valign="top">
       <h3>1. Protected Flange Coupling</h3>
       <p align="center">
-        <img src="Assets/CAD.png" alt="Protected Flange Coupling" width="100%">
+        <img src="Projects/01_Protected_Flange_Coupling/Images/Assem1.JPG" alt="Protected Flange Coupling Assembly" width="100%">
       </p>
       <p><b>Description:</b> Fully defined, parameterized 3D assembly of a Protected Flange Coupling designed in SolidWorks. Features a protective outer lip shielding bolt heads for safety.</p>
       <p><b>Skills:</b> SolidWorks, Assembly Mates, 2D Drafting, GD&T, BOM</p>
