@@ -41,13 +41,13 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
     <td width="50%" valign="top">
       <h3>2. Bench Vice Assembly</h3>
       <p align="center">
-        <img src="Assets/CAD.png" alt="Bench Vice Placeholder" width="100%">
+        <img src="Projects/02_Bench_Vice/Images/Bench_Vice_Render1.JPG" alt="Bench Vice Assembly" width="100%">
       </p>
-      <p><b>Description:</b> Clamping tool designed to securely hold workpieces during operations.</p>
-      <p><b>Skills Used:</b> Part Modeling, Assemblies</p>
-      <p><b>Status:</b> 🚧 Coming Soon</p>
+      <p><b>Description:</b> A 3D assembly of a mechanical bench vice in SolidWorks, used to clamp workpieces securely during machining operations.</p>
+      <p><b>Skills Used:</b> SolidWorks, 3D Part Modeling, Assembly Design, Parametric Modeling</p>
+      <p><b>Status:</b> Completed</p>
       <p>
-        <a href="Projects/02_Bench_Vice/">📂 Project Plan</a>
+        <a href="Projects/02_Bench_Vice/">📂 Project Documentation</a>
       </p>
     </td>
   </tr>
