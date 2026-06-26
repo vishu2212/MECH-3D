@@ -1,6 +1,6 @@
 ﻿# 🚧 Mechanical Screw Jack
 
-[![Status - Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
+[![Status - In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)](#)
 [![CAD - SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-lightgrey.svg)](#)
 
 A heavy-duty portable lifting device utilizing a power square thread screw mechanism to lift vehicular loads and structures.
@@ -51,3 +51,4 @@ The following components will be modeled and assembled:
 - Engineering Drafting Standards
 - Exploded Assembly Views
 - Standard Component Integration
+

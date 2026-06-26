@@ -1,6 +1,6 @@
 ﻿# 🚧 Piston & Connecting Rod Assembly
 
-[![Status - Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
+[![Status - In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)](#)
 [![CAD - SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-lightgrey.svg)](#)
 
 The core reciprocating assembly of an internal combustion engine, transforming thermodynamic gas expansion into rotary motion.
@@ -51,3 +51,4 @@ The following components will be modeled and assembled:
 - Engineering Drafting Standards
 - Exploded Assembly Views
 - Standard Component Integration
+

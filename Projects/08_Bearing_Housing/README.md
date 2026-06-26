@@ -1,6 +1,6 @@
 ﻿# 🚧 Plummer Block (Bearing Housing)
 
-[![Status - Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
+[![Status - In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)](#)
 [![CAD - SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-lightgrey.svg)](#)
 
 A pedestal-type bearing housing designed to support rotating shafts with rolling or sliding contact bearings under high loads.
@@ -51,3 +51,4 @@ The following components will be modeled and assembled:
 - Engineering Drafting Standards
 - Exploded Assembly Views
 - Standard Component Integration
+

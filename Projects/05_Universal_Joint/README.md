@@ -1,6 +1,6 @@
 ﻿# 🚧 Universal Joint (Hooke's Joint)
 
-[![Status - Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
+[![Status - In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)](#)
 [![CAD - SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-lightgrey.svg)](#)
 
 A mechanical coupling connecting two shafts with angular misalignment, commonly used in automotive drive shafts and power take-off systems.
@@ -51,3 +51,4 @@ The following components will be modeled and assembled:
 - Engineering Drafting Standards
 - Exploded Assembly Views
 - Standard Component Integration
+
