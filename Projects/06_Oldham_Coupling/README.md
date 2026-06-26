@@ -1,53 +1,54 @@
-﻿# 🚧 Oldham Coupling Assembly
+# Oldham Coupling
 
-[![Status - Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow.svg)](#)
-[![CAD - SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-lightgrey.svg)](#)
+# Project Overview
+This project is a 3D assembly of an Oldham coupling in SolidWorks. An Oldham coupling is a mechanical coupling designed to connect two parallel shafts that have lateral (radial) misalignment. It transmits torque between the shafts using a three-piece design: two flanges keyed to the shafts and a floating center disc with perpendicular tongue-and-groove slots that slide to accommodate the offset.
 
-A specialized coupling designed to connect two parallel shafts having lateral (radial) misalignment, using a floating sliding center disc.
+# Components
+The assembly consists of the following components:
+* **Flange**: Two matching flanges (driving and driven) with slots to receive the center disc.
+* **Disc**: The floating center disc with perpendicular grooves on its opposite faces.
+* **Shaft**: Cylindrical rotating power shafts.
+* **Key**: Sunk keys to link the shafts to the flanges and prevent slip.
 
----
+# Software Used
+* SolidWorks
 
-## 📌 Project Plan & Objectives
+# Project Workflow
+* **Part Modeling**: Modeled the cylindrical flanges and cut slots at 90-degree offsets. Sketched and extruded the shafts, keys, and center disc.
+* **Assembly Creation**: Inserted the shafts with a lateral offset to simulate misalignment. Fixed the input shaft at the origin, then aligned the flanges, keys, and sliding center disc.
+* **Applying Mates**: Used concentric mates for the shafts and flange hubs, coincident mates to seat the keys, and mechanical sliding constraints to allow the center disc to slide inside the flange slots.
+* **Creating Engineering Drawings**: Generated 2D drawings for the individual parts (flange, disc) and the overall assembly layout.
+* **Exporting Project Files**: Saved native SolidWorks files (`.SLDPRT`, `.SLDASM`, `.SLDDRW`) and standard sheet formats (`.slddrt`).
 
-This project is currently in the planning phase. Once complete, it will showcase a fully detailed mechanical assembly demonstrating advanced parametric CAD design.
+# Repository Contents
+* `Assembly/` - Contains the master assembly (`Oldham_Coupling.SLDASM`), subassembly (`Flange_Subassembly.SLDASM`), and secondary assembly (`Oldham_Coupling_Assem1.SLDASM`).
+* `Parts/` - Contains individual part files (`Disc.SLDPRT`, `Flange.SLDPRT`, `Key.SLDPRT`, `Shaft.SLDPRT`).
+* `Drawings/` - Contains detailed 2D engineering drawings (`Oldham_Coupling_Drawing.SLDDRW`, `Disc_Drawing.SLDDRW`, `Flange_Drawing.SLDDRW`, `Oldham_Drawing.SLDDRW`) and custom sheet formats (`Oldham_Sheet_Format.slddrt`).
+* `Images/` - Placeholder for future renderings and screenshots.
+* `BOM/` - Placeholder for the Bill of Materials.
+* `Manufacturing/` - Placeholder for future STEP and neutral CAD files.
+* `Resources/` - Placeholder for design references.
 
-### Key Targets:
-1. **Geometric Modeling**: Create fully defined 3D models of all components.
-2. **Kinematic Assembly**: Define concentric, coincident, and limit mates to represent realistic degrees of freedom.
-3. **Drafting Guidelines**: Generate 2D manufacturing drawings with detailed dimensions, tolerances, and assembly BOM.
+# Skills Demonstrated
+* 3D Part Modeling
+* Assembly Design
+* Engineering Drawings
+* Parametric Modeling
+* Dimensioning
+* Mechanical Components
+* Technical Documentation
+* SolidWorks
 
----
+# Key Learnings
+* **Creating Parametric Parts**: Practiced designing perpendicular mating slots and keys that align relative to the central axes.
+* **Understanding Assembly Relationships**: Learned how to define sliding constraints that allow a component to move relative to two perpendicular mating guides simultaneously.
+* **Working with Engineering Drawings**: Gained experience setting up custom drawing sheet templates (`.slddrt`) and detailing multi-part assembly sheets.
+* **Organizing CAD Files**: Organized subassemblies (`Flange_Subassembly.SLDASM`) and nested parts to prevent broken reference links.
+* **Learning SolidWorks Workflow**: Explored the use of mechanical mates for sliding components.
 
-## 📋 Component List (Under Review)
-
-The following components will be modeled and assembled:
-- [ ] **Driving Flange** - [ ] **Driven Flange** - [ ] **Floating Center Disc** - [ ] **Keys** - [ ] **Set Screws**
-
----
-
-## ⚙️ Intended Workflow
-
-- **Part Modeling**: Sketching and feature design (Extrude, Revolve, Sweep, Fillet/Chamfer).
-- **Material Assignment**: Define correct alloy materials for stress analysis and mass properties.
-- **Assembly Mates**: Align parts with structural mates and limit dimensions.
-- **2D Detail Drawings**: Exploded views, orthographic projections, and tolerance annotations.
-
----
-
-## 📂 Expected Deliverables
-
-- [ ] Native SolidWorks Parts (.SLDPRT) in [\Parts/\](./Parts/)
-- [ ] Master Assembly File (.SLDASM) in [\Assembly/\](./Assembly/)
-- [ ] Technical Drawings (.SLDDRW / .PDF) in [\Drawings/\](./Drawings/)
-- [ ] Bill of Materials (.CSV) in [\BOM/\](./BOM/)
-- [ ] Exported Neutral Formats (.STEP / .DXF) in [\Manufacturing/\](./Manufacturing/)
-
----
-
-## 🎯 Skills to Demonstrate
-
-- Parametric Part Modeling
-- Mechanical Assembly Constraints
-- Engineering Drafting Standards
-- Exploded Assembly Views
-- Standard Component Integration
+# Future Improvements
+* Additional renders
+* Exploded view
+* Animation
+* Manufacturing drawings
+* STEP exports

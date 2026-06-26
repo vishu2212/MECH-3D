@@ -81,11 +81,12 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
     </td>
     <td width="50%" valign="top">
       <h3>6. Oldham Coupling</h3>
-      <p><b>Description:</b> Coupling used to connect two parallel shafts with lateral misalignment.</p>
-      <p><b>Skills Used:</b> Sliding Joints, Assembly Design</p>
-      <p><b>Status:</b> 🚧 Coming Soon</p>
+      <!-- <p align="center"><img src="Projects/06_Oldham_Coupling/Images/Oldham_Coupling_Render1.JPG" alt="Oldham Coupling Assembly" width="100%"></p> -->
+      <p><b>Description:</b> A 3D assembly of an Oldham coupling in SolidWorks, connecting two parallel shafts with lateral misalignment.</p>
+      <p><b>Skills Used:</b> SolidWorks, 3D Part Modeling, Assembly Design, Parametric Modeling</p>
+      <p><b>Status:</b> Completed</p>
       <p>
-        <a href="Projects/06_Oldham_Coupling/">📂 Project Plan</a>
+        <a href="Projects/06_Oldham_Coupling/">📂 Project Documentation</a>
       </p>
     </td>
   </tr>
