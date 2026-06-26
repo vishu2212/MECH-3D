@@ -2,8 +2,6 @@
 
 Mechanical Engineering Undergraduate student focusing on CAD, mechanical drafting, and product design.
 
-![Portfolio Banner](Assets/Banner.png)
-
 ---
 
 ## About Me
@@ -54,9 +52,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
   <tr>
     <td width="50%" valign="top">
       <h3>3. Mechanical Screw Jack</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Screw Jack Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Heavy-duty portable lifting device utilizing a lead screw mechanism to lift loads.</p>
       <p><b>Skills Used:</b> Thread Design, Part Modeling</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
@@ -66,9 +61,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
     </td>
     <td width="50%" valign="top">
       <h3>4. Gearbox Assembly</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Gearbox Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Spur gear speed reducer transmission system.</p>
       <p><b>Skills Used:</b> Gears, Shafts, Assembly Design</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
@@ -80,9 +72,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
   <tr>
     <td width="50%" valign="top">
       <h3>5. Universal Joint</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Universal Joint Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Mechanical joint coupling designed to connect shafts with angular misalignment.</p>
       <p><b>Skills Used:</b> Joints, Assembly Design</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
@@ -92,9 +81,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
     </td>
     <td width="50%" valign="top">
       <h3>6. Oldham Coupling</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Oldham Coupling Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Coupling used to connect two parallel shafts with lateral misalignment.</p>
       <p><b>Skills Used:</b> Sliding Joints, Assembly Design</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
@@ -106,9 +92,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
   <tr>
     <td width="50%" valign="top">
       <h3>7. Connecting Rod & Piston</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Connecting Rod Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Reciprocating assembly converting linear piston motion to crankshaft rotation.</p>
       <p><b>Skills Used:</b> Engine Components, Assembly Design</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
@@ -118,9 +101,6 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
     </td>
     <td width="50%" valign="top">
       <h3>8. Bearing Housing</h3>
-      <p align="center">
-        <img src="Assets/CAD.png" alt="Bearing Housing Placeholder" width="100%">
-      </p>
       <p><b>Description:</b> Plummer block bearing housing designed to support rotating shafts.</p>
       <p><b>Skills Used:</b> Castings, Part Modeling</p>
       <p><b>Status:</b> 🚧 Coming Soon</p>
