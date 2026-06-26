@@ -124,4 +124,4 @@ I am a Mechanical Engineering undergraduate student interested in mechanical des
 
 *   **Email**: [vishuphalswal2212@gmail.com](mailto:vishuphalswal2212@gmail.com)
 *   **GitHub**: [github.com/vishu2212](https://github.com/vishu2212)
-*   **LinkedIn**: [LinkedIn Profile (Placeholder)](https://www.linkedin.com/in/your-linkedin-username)
+*   **LinkedIn**: [linkedin.com/in/vishav-phalswal-b8116a201](https://www.linkedin.com/in/vishav-phalswal-b8116a201)
